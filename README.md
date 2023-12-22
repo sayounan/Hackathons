@@ -5,11 +5,12 @@ This is a collection of work or puzzles I solved in hackathons.
 
 <details><summary>Solve Times</summary><blockquote>
 
-- [CANBus log](/CAN.log) + [Dashboard Recoding](/Dashboard.mkv):<br />~90 mins.
-- [chall.py](/chall.py) + [chall_edited.py](/chall_edited.py) + [example.py](/example.py):<br />~6 hrs.
-- [Comp.py](/Comp.py) + [Dashboard.mkv](/Dashboard.mkv):<br />~90 mins.
-- [Mayday.wav](/Mayday.wav):<br />~5 mins
-- [out.txt](/out.txt):<br />~5 mins
+- [CANBus log](/CAN.log) + [Dashboard Recoding](/Dashboard.mkv):<br /><code style='color : red'>~90 mins.</code>
+- [chall.py](/chall.py) + [chall_edited.py](/chall_edited.py) + [example.py](/example.py):
+<br /><code style='color : red'>~6 hrs.</code>
+- [Comp.py](/Comp.py) + [Dashboard.mkv](/Dashboard.mkv):<br /><code style='color : red'>~90 mins.</code>
+- [Mayday.wav](/Mayday.wav):<br /><code style='color : red'>~5 mins</code>
+- [out.txt](/out.txt):<br /><code style='color : red'>~5 mins</code>
 </blockquote></details>
 
 ### [CAN.log](/CAN.log)
