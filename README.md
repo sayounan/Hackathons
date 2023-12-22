@@ -1,13 +1,17 @@
 # Sari I. Younan
 # Hackathons
 This is a collection of work or puzzles I solved in hackathons.
-## Deloitte Hackathon (Total Time: 9 hrs.)
-## Solve Times
+<details><summary>Deloitte Hackathon (Total Time: 9 hrs.)</summary><blockquote>
+
+<details><summary>Solve Times</summary><blockquote>
+
 - [CANBus log](/CAN.log) + [Dashboard Recoding](/Dashboard.mkv):<br />~90 mins.
 - [chall.py](/chall.py) + [chall_edited.py](/chall_edited.py) + [example.py](/example.py):<br />~6 hrs.
 - [Comp.py](/Comp.py) + [Dashboard.mkv](/Dashboard.mkv):<br />~90 mins.
 - [Mayday.wav](/Mayday.wav):<br />~5 mins
 - [out.txt](/out.txt):<br />~5 mins
+</blockquote></details>
+
 ### [CAN.log](/CAN.log)
 CANBus log from a "Tesla" used alongside a [Dashboard Recoding](/Dashboard.mkv). Prompt was to watch the dashboard 
 recording and use that to find the CANBus log code for door opened and door closed events based on the video.
@@ -28,3 +32,4 @@ An example of how the library in [chall.py](/chall.py) worked.
 An audio file containing "morse code from a sinking Italian ship." The morse code decoded into a shift cypher (Key: 6)
 ### [out.txt](/out.txt)
 A text file with a hidden flag. It was simply the first letter of each word.
+</blockquote></details>
