@@ -4,6 +4,7 @@ This is a collection of work or puzzles I solved in hackathons.
 <details><summary>Deloitte Hackathon (Total Time: 9 hrs.)</summary><blockquote>
 
 ####
+![alt text](https://github.com/sayounan/images/blob/d31252ae9f3cfb2873544e47ba2f7fbc9affa485/Deloitte-Logo.png)
 <details><summary><code style='color : red'>⏳ Solve Times</code></summary><blockquote>
 
 - [CANBus log](/CAN.log) + [Dashboard Recoding](/Dashboard.mkv):<br /><code style='color : red'>~90 mins.</code>
