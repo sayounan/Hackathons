@@ -16,7 +16,7 @@ This is a collection of work or puzzles I solved in hackathons.
 <details><summary>Challenges</summary><blockquote>
 
 # Connected Car
-- **Dependencies/Auxiliaries:** [Dashboard Recoding](Mountain-West-Cyber-Challenge/Dashboard.mkv), [CANBus log](/CAN.log), and [Solution](/Comp.py)
+- **Dependencies/Auxiliaries:** [Dashboard Recoding](/Mountain-West-Cyber-Challenge/Dashboard.mkv), [CANBus log](/CAN.log), and [Solution](/Comp.py)
 - **Prompt:** Watch the [Dashboard Recoding](/Dashboard.mkv) and use that to help find the [CANBus log](/CAN.log) code for door opened and door closed events based on the video.
 
 #### [CANBus log](/CAN.log)
