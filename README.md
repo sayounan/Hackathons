@@ -2,7 +2,7 @@
 # Hackathons
 This is a collection of work or puzzles I solved in hackathons.
 ![alt text](images/Deloitte-Logo.png)
-<details><summary>Mountain West Cyber Challenge by Hackazon & Deloitte (Total Time: 9 hrs.)</summary><blockquote>
+<details><summary>Dec. 2023 Mountain West Cyber Challenge by Hackazon & Deloitte (Total Time: 9 hrs.)</summary><blockquote>
 
 ####
 <details><summary>⏳ Solve Times</summary><blockquote>
