@@ -1,7 +1,7 @@
 # Sari I. Younan
 # Hackathons
 This is a collection of work or puzzles I solved in hackathons I participated in.
-#### Click on the arrows or titles to see more details.
+### Click on the arrows or titles to see more details.
 ![alt text](images/Deloitte-Logo.png)
 <details><summary>Dec. 2023 Mountain West Cyber Challenge by Hackazon & Deloitte (Total Time: 9 hrs.)</summary><blockquote>
 
