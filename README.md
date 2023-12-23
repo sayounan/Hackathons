@@ -30,7 +30,7 @@ This is a collection of work or puzzles I solved in hackathons.
 
 # Logic Analysis
 - **Dependencies/Auxiliaries:** [Example Code](/example.py), [Challenge](/chall.py), & [Solution](/chall_edited.py)
-- **Prompt:** [Challenge](/chall.py) takes user input for a potential flag, generated the flag based on 32 XOR conditions, compares the guess with the generated flag, confirms or denies a match between the two. Find the flag.
+- **Prompt:** [Challenge](/chall.py) takes user input for a potential flag, generates the flag based on 32 XOR conditions, compares the guess with the generated flag, confirms or denies a match between the two. Find the flag.
 
 #### [Example Code](/example.py)
 - **Description:** Example python code containing the library that performs the logic.
@@ -53,7 +53,7 @@ This is a collection of work or puzzles I solved in hackathons.
 
 # Find The Hidden Message
 - **Dependencies/Auxiliaries:** [Text File](/out.txt)
-- **Prompt:** Find the hidden message within the [Text File](/out.txt)
+- **Prompt:** Find the hidden message within the [Text File](/out.txt).
 
 ### [Text File](/out.txt) 
 - **Description:** Text file containing a paragraph.
