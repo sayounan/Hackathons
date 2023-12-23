@@ -15,7 +15,7 @@ This is a collection of work or puzzles I solved in hackathons I participated in
 </blockquote></details>
 
 #### 
-<details><summary>Challenges</summary><blockquote>
+<summary>Challenges</summary><blockquote>
 
 # Connected Car
 - **Dependencies/Auxiliaries:** [Dashboard Recoding](/Mountain-West-Cyber-Challenge/Dashboard.mkv), [CANBus log](/Mountain-West-Cyber-Challenge/CAN.log), and [Solution](/Mountain-West-Cyber-Challenge/Comp.py)
@@ -63,7 +63,7 @@ This is a collection of work or puzzles I solved in hackathons I participated in
 ### Solution
 - Decoded using online morse code decoder, returned a string of text that was not recognizable language but had a noticeable pattern. Immediately chose to use an online shift cypher decoder to find the flag.
 
-</blockquote></details>
+</blockquote>
 
 #### 
 </blockquote></details>
