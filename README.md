@@ -15,7 +15,7 @@ This is a collection of work or puzzles I solved in hackathons.
 
 <details><summary>Challenges</summary><blockquote>
 
-## Connected Car
+# Connected Car
 - **Dependencies/Auxiliaries:** [Dashboard Recoding](/Dashboard.mkv), [CANBus log](/CAN.log), and [Solution](/Comp.py)
 - **Prompt:** Watch the [Dashboard Recoding](/Dashboard.mkv) and use that to help find the [CANBus log](/CAN.log) code for door opened and door closed events based on the video.
 
@@ -28,7 +28,7 @@ This is a collection of work or puzzles I solved in hackathons.
 #### [Solution](/Comp.py)
 - **Description:** Python code to sort the frequency of code occurrences in the [CANBus log](/CAN.log) in ascending order, as there was only one door opened event and only one door closed event based on the [Dashboard Recording](/Dashboard.mkv).  
 
-## Logic Analysis
+# Logic Analysis
 - **Dependencies/Auxiliaries:** [Example Code](/example.py), [Challenge](/chall.py), & [Solution](/chall_edited.py)
 - **Prompt:** [Challenge](/chall.py) takes user input for a potential flag, generated the flag based on 32 XOR conditions, compares the guess with the generated flag, confirms or denies a match between the two. Find the flag.
 
@@ -41,7 +41,7 @@ This is a collection of work or puzzles I solved in hackathons.
 #### [Solution](/chall_edited.py)
 - **Description:** Personal edit of [Challenge](/chall.py) where after learning what the imported library does and how it works, rewrote the code to become a writer instead of a guesser.
 
-## Mayday
+# Mayday
 - **Dependencies/Auxiliaries:** [Morse Code Audio File](/Mayday.wav)
 - **Prompt:** This is a recorded signal broadcast by a sinking ship. Find the flag in the broadcast.
 
@@ -51,7 +51,7 @@ This is a collection of work or puzzles I solved in hackathons.
 ### Solution
 - Decoded using online morse code decoder, returned a string of text that was not recognizable language but had a noticeable pattern. Immediately chose to use an online shift cypher decoder to find the flag.
 
-## Find The Hidden Message
+# Find The Hidden Message
 - **Dependencies/Auxiliaries:** [Text File](/out.txt)
 - **Prompt:** Find the hidden message within the [Text File](/out.txt)
 
