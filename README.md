@@ -8,9 +8,9 @@ This is a collection of work or puzzles I solved in hackathons.
 <details><summary>⏳ Solve Times</summary><blockquote>
 
 - [Connected Car](#Connected-Car):<br />~2 hrs.
+- [Find The Hidden Message](#Find-The-Hidden-Message):<br />~5 mins.
 - [Logic Analysis](#Logic-Analysis):<br />~6.5 hrs.
 - [Mayday](#Mayday):<br />~5 mins.
-- [Find The Hidden Message](#Find-The-Hidden-Message):<br />~5 mins.
 </blockquote></details>
 
 #### 
@@ -28,6 +28,16 @@ This is a collection of work or puzzles I solved in hackathons.
 
 #### [Solution](/Mountain-West-Cyber-Challenge/Comp.py)
 - **Description:** Python code to sort the frequency of code occurrences in the [CANBus log](/Mountain-West-Cyber-Challenge/CAN.log) in ascending order, as there was only one door opened event and only one door closed event based on the [Dashboard Recording](/Mountain-West-Cyber-Challenge/Dashboard.mkv).  
+
+# Find The Hidden Message
+- **Dependencies/Auxiliaries:** [Text File](/Mountain-West-Cyber-Challenge/out.txt)
+- **Prompt:** Find the hidden message within the [Text File](/Mountain-West-Cyber-Challenge/out.txt).
+
+### [Text File](/Mountain-West-Cyber-Challenge/out.txt) 
+- **Description:** Text file containing a paragraph.
+
+### Solution
+- First guess was to try extracting the first letter of every word as the paragraph made no grammatical, syntactical, or logical sense. The resulting string revealed the flag by spelling out the numbers and directly providing the letters.
 
 # Logic Analysis
 - **Dependencies/Auxiliaries:** [Example Code](/Mountain-West-Cyber-Challenge/example.py), [Challenge](/Mountain-West-Cyber-Challenge/chall.py), & [Solution](/Mountain-West-Cyber-Challenge/chall_edited.py)
@@ -51,16 +61,6 @@ This is a collection of work or puzzles I solved in hackathons.
 
 ### Solution
 - Decoded using online morse code decoder, returned a string of text that was not recognizable language but had a noticeable pattern. Immediately chose to use an online shift cypher decoder to find the flag.
-
-# Find The Hidden Message
-- **Dependencies/Auxiliaries:** [Text File](/Mountain-West-Cyber-Challenge/out.txt)
-- **Prompt:** Find the hidden message within the [Text File](/Mountain-West-Cyber-Challenge/out.txt).
-
-### [Text File](/Mountain-West-Cyber-Challenge/out.txt) 
-- **Description:** Text file containing a paragraph.
-
-### Solution
-- First guess was to try extracting the first letter of every word as the paragraph made no grammatical, syntactical, or logical sense. The resulting string revealed the flag by spelling out the numbers and directly providing the letters.
 
 </blockquote></details>
 
