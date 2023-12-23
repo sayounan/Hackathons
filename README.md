@@ -2,7 +2,7 @@
 # Hackathons
 This is a collection of work or puzzles I solved in hackathons.
 ![alt text](images/Deloitte-Logo.png)
-<details><summary>Deloitte Hackathon (Total Time: 9 hrs.)</summary><blockquote>
+<details><summary>Hackazon by Deloitte Hackathon (Total Time: 9 hrs.)</summary><blockquote>
 
 ####
 <details><summary><code style='color : red'>⏳ Solve Times</code></summary><blockquote>
