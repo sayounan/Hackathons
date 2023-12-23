@@ -1,7 +1,7 @@
 # Sari I. Younan
 # Hackathons
 This is a collection of work or puzzles I solved in hackathons.
-![alt text](https://github.com/sayounan/images/blob/d31252ae9f3cfb2873544e47ba2f7fbc9affa485/Deloitte-Logo.png)
+![alt text](images/Deloitte-Logo.png)
 <details><summary>Deloitte Hackathon (Total Time: 9 hrs.)</summary><blockquote>
 
 ####
