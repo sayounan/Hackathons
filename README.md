@@ -4,6 +4,7 @@ This is a collection of work or puzzles I solved in hackathons.
 ![alt text](images/Deloitte-Logo.png)
 <details><summary>Dec. 2023 Mountain West Cyber Challenge by Hackazon & Deloitte (Total Time: 9 hrs.)</summary><blockquote>
 
+#### 
 <details><summary>⏳ Solve Times</summary><blockquote>
 
 - [Connected Car](#Connected-Car):<br />~2 hrs.
@@ -12,6 +13,7 @@ This is a collection of work or puzzles I solved in hackathons.
 - [Find The Hidden Message](#Find-The-Hidden-Message):<br />~5 mins.
 </blockquote></details>
 
+#### 
 <details><summary>Challenges</summary><blockquote>
 
 # Connected Car
@@ -61,4 +63,6 @@ This is a collection of work or puzzles I solved in hackathons.
 - First guess was to try extracting the first letter of every word as the paragraph made no grammatical, syntactical, or logical sense. The resulting string revealed the flag by spelling out the numbers and directly providing the letters.
 
 </blockquote></details>
+
+#### 
 </blockquote></details>
