@@ -3,7 +3,7 @@
 This is a collection of work or puzzles I solved in hackathons I participated in.
 ### Click on the arrows or titles to see more details.
 ![alt text](images/Deloitte-Logo.png)
-<details><summary>Dec. 2023 Mountain West Cyber Challenge by Hackazon & Deloitte (Total Time: 9 hrs.)</summary><blockquote>
+### <summary>Dec. 2023 Mountain West Cyber Challenge by Hackazon & Deloitte (Total Time: 9 hrs.)</summary>
 
 #### 
 <details><summary>⏳ Solve Times</summary><blockquote>
@@ -15,9 +15,10 @@ This is a collection of work or puzzles I solved in hackathons I participated in
 </blockquote></details>
 
 #### 
-<summary>Challenges</summary><blockquote>
+### <summary>Challenges</summary>
+<blockquote>
 
-# Connected Car
+## Connected Car
 - **Dependencies/Auxiliaries:** [Dashboard Recoding](/Mountain-West-Cyber-Challenge/Dashboard.mkv), [CANBus log](/Mountain-West-Cyber-Challenge/CAN.log), and [Solution](/Mountain-West-Cyber-Challenge/Comp.py)
 - **Prompt:** Watch the [Dashboard Recoding](/Mountain-West-Cyber-Challenge/Dashboard.mkv) and use that to help find the [CANBus log](/Mountain-West-Cyber-Challenge/CAN.log) code for door opened and door closed events based on the video.
 
@@ -30,7 +31,7 @@ This is a collection of work or puzzles I solved in hackathons I participated in
 #### [Solution](/Mountain-West-Cyber-Challenge/Comp.py)
 - **Description:** Python code to sort the frequency of code occurrences in the [CANBus log](/Mountain-West-Cyber-Challenge/CAN.log) in ascending order, as there was only one door opened event and only one door closed event based on the [Dashboard Recording](/Mountain-West-Cyber-Challenge/Dashboard.mkv).  
 
-# Find The Hidden Message
+## Find The Hidden Message
 - **Dependencies/Auxiliaries:** [Text File](/Mountain-West-Cyber-Challenge/out.txt)
 - **Prompt:** Find the hidden message within the [Text File](/Mountain-West-Cyber-Challenge/out.txt).
 
@@ -40,7 +41,7 @@ This is a collection of work or puzzles I solved in hackathons I participated in
 ### Solution
 - First guess was to try extracting the first letter of every word as the paragraph made no grammatical, syntactical, or logical sense. The resulting string revealed the flag by spelling out the numbers and directly providing the letters.
 
-# Logic Analysis
+## Logic Analysis
 - **Dependencies/Auxiliaries:** [Example Code](/Mountain-West-Cyber-Challenge/example.py), [Challenge](/Mountain-West-Cyber-Challenge/chall.py), & [Solution](/Mountain-West-Cyber-Challenge/chall_edited.py)
 - **Prompt:** [Challenge](/Mountain-West-Cyber-Challenge/chall.py) takes user input for a potential flag, generates the flag based on 32 XOR conditions, compares the guess with the generated flag, confirms or denies a match between the two. Find the flag.
 
@@ -53,7 +54,7 @@ This is a collection of work or puzzles I solved in hackathons I participated in
 #### [Solution](/Mountain-West-Cyber-Challenge/chall_edited.py)
 - **Description:** Personal edit of [Challenge](/Mountain-West-Cyber-Challenge/chall.py) where after learning what the imported library does and how it works, rewrote the code to become a writer instead of a guesser.
 
-# Mayday
+## Mayday
 - **Dependencies/Auxiliaries:** [Morse Code Audio File](/Mountain-West-Cyber-Challenge/Mayday.wav)
 - **Prompt:** This is a recorded signal broadcast by a sinking ship. Find the flag in the broadcast.
 
@@ -64,6 +65,3 @@ This is a collection of work or puzzles I solved in hackathons I participated in
 - Decoded using online morse code decoder, returned a string of text that was not recognizable language but had a noticeable pattern. Immediately chose to use an online shift cypher decoder to find the flag.
 
 </blockquote>
-
-#### 
-</blockquote></details>
